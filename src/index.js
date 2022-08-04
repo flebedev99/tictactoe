@@ -1,4 +1,3 @@
-import "./style.css";
 const bt1 = document.getElementById("b1");
 const bt2 = document.getElementById("b2");
 const bt3 = document.getElementById("b3");
